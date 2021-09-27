@@ -1,4 +1,4 @@
-# PHPtest
+# E-Commerce Heming
 
 Projeto e-commerce Heming (desenvolvendo para praticar).
 Utilizando das seguintes tecnologias: Html 5, Css 3, JavaScript, Bootstrap, jquery, Php 7, Laravel, entre outras...
